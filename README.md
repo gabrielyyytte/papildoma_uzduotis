@@ -1,4 +1,4 @@
-# papildoma_uzduotis
+# Papildoma_uzduotis
 Programa suskaičiuoja, kiek kartų kiekvienas skirtingas žodis pasikartoja pateiktame tekste ir suranda jame esančius URL adresus. Viskas išvedama faile statistika.txt
 ## Įdiegimo instrukcija
 Norint paleisti programos kodą reikia:
