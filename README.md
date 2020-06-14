@@ -1,5 +1,6 @@
 # Papildoma_uzduotis
 Programa suskaičiuoja, kiek kartų kiekvienas skirtingas žodis pasikartoja pateiktame tekste ir suranda jame esančius URL adresus. Viskas išvedama faile statistika.txt
+ <br />[KODAS](https://github.com/gabrielyyytte/papildoma_uzduotis/releases/tag/p1)
 ## Įdiegimo instrukcija
 Norint paleisti programos kodą reikia:
 1. Atsisiųsti bet kurį iš pateiktų programos kodų
